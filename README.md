@@ -9,7 +9,7 @@ This is a case study app to explain how to build a CRUD app with Vue.js and Djan
 ## Getting Started
 * Clone this project to your machine
 * Follow the instructions [here](https://github.com/nioperas06/crud-vuejs-django-rest-framework/tree/master/subscription-api) to setup the Django REST Framework API.
-* Follow the instructions [here]() to setup the Vue.js application.
+* Follow the instructions [here](https://github.com/nioperas06/crud-vuejs-django-rest-framework/tree/master/subscription-app) to setup the Vue.js application.
 
 ## Built With
 
