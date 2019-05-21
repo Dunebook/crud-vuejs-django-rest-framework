@@ -3,7 +3,7 @@
 This is a case study app to explain how to build a CRUD app with Vue.js and Django REST Framework.
 
 ### Prerequisites
-* Knowlegde of the Python Programming language.
+* Knowlegde of the Python & JavaScript Programming language.
 * Knowlegde of Vue.js, Django and Django REST Framework
 
 ## Getting Started
