@@ -10,8 +10,8 @@ Read the complete tutorial on codesource.io - https://codesource.io/build-a-crud
 
 ## Getting Started
 * Clone this project to your machine
-* Follow the instructions [here](https://github.com/nioperas06/crud-vuejs-django-rest-framework/tree/master/subscription-api) to setup the Django REST Framework API.
-* Follow the instructions [here](https://github.com/nioperas06/crud-vuejs-django-rest-framework/tree/master/subscription-app) to setup the Vue.js application.
+* Follow the instructions [here](https://codesource.io/build-a-crud-application-vue-and-django/) to setup the Django REST Framework API.
+* Follow the instructions [here](https://codesource.io/build-a-crud-application-vue-and-django/) to setup the Vue.js application.
 
 ## Built With
 
