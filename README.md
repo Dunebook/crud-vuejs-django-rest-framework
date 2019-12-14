@@ -2,7 +2,7 @@
 
 This is a case study app to explain how to build a CRUD app with Vue.js and Django REST Framework.
 
-Read the complete tutorial on dunebook.com - https://codesource.io/build-a-crud-application-vue-and-django/
+Read the complete tutorial on codesource.io - https://codesource.io/build-a-crud-application-vue-and-django/
 
 ### Prerequisites
 * Knowlegde of the Python & JavaScript Programming language.
